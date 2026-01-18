@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a GitHub Pages personal site (nmikle.github.io) built with SvelteKit and TypeScript. It uses the static adapter to generate static HTML/CSS/JS files for deployment.
+This is a GitHub Pages personal site (nmikle.com) built with SvelteKit and TypeScript. It uses the static adapter to generate static HTML/CSS/JS files for deployment.
 
 ## Commands
 

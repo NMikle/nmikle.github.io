@@ -1,10 +1,10 @@
-# nmikle.github.io
+# nmikle.com
 
 Personal website built with SvelteKit and TypeScript, deployed to GitHub Pages.
 
 ## Live Site
 
-[https://nmikle.github.io](https://nmikle.github.io)
+[https://nmikle.com](https://nmikle.com)
 
 ## Development
 

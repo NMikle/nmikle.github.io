@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Welcome to nmikle.github.io</title>
+	<title>Welcome to nmikle.com</title>
 </svelte:head>
 
 <div class="container">
