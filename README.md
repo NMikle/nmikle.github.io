@@ -4,7 +4,7 @@ Personal website built with SvelteKit and TypeScript, deployed to GitHub Pages.
 
 ## Live Site
 
-[https://nmikle.com](https://nmikle.com)
+[nmikle.com](https://nmikle.com)
 
 ## Development
 
