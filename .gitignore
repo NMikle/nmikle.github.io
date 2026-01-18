@@ -1,14 +1,19 @@
-# IntelliJ IDEA
+# SvelteKit
+.svelte-kit/
+build/
+
+# Dependencies
+node_modules/
+
+# IDE
 .idea/
 *.iml
 *.iws
 *.ipr
+.vscode/
 
-# Mac OS
+# OS
 .DS_Store
 
-# Node.js
-node_modules/
-dist/
-build/
+# Misc
 .cache/
