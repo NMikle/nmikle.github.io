@@ -21,4 +21,12 @@ Pushing to the `master` branch triggers GitHub Actions to automatically build an
 
 - `src/routes/` - SvelteKit pages and layouts
 - `src/routes/+layout.ts` - Enables prerendering for all routes
+- `src/hooks.server.ts` - HTML minification during build
 - `static/` - Static assets (copied as-is to build output)
+- `static/CNAME` - Custom domain config (must be in static/, not root, so it's copied to build/)
+
+## Build Optimizations
+
+- **JS minification** - Terser with console/debugger removal
+- **HTML minification** - via SvelteKit hooks (transformPageChunk)
+- **Precompress** - generates .gz and .br files for all assets
