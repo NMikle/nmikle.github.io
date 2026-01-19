@@ -1,9 +1,8 @@
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
-import { ViteMinifyPlugin } from 'vite-plugin-minify';
 
 export default defineConfig({
-	plugins: [sveltekit(), ViteMinifyPlugin()],
+	plugins: [sveltekit()],
 	build: {
 		minify: 'terser',
 		terserOptions: {
