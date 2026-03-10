@@ -61,7 +61,7 @@
 		font-family: 'JetBrains Mono', monospace;
 		text-transform: uppercase;
 		letter-spacing: 0.12em;
-		color: #888;
+		color: #333;
 		margin: 0 0 0.75rem;
 		padding-bottom: 0.5rem;
 		border-bottom: 1px solid #d4cfc6;
@@ -85,7 +85,8 @@
 	}
 
 	dt {
-		color: #888;
+		color: #0f0f0f;
+		font-weight: 500;
 		font-size: 0.9rem;
 		padding-top: 0.1em;
 	}
